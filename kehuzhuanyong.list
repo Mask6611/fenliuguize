@@ -1,5 +1,7 @@
 # China Area Network
-DOMAIN-SUFFIX,appds.cn
+REJECT-KEYWORD,iosjs
+REJECT-KEYWORD,messenger
+REJECT-KEYWORD,appds
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,wanwanji.com
 DOMAIN-SUFFIX,flyert.com
