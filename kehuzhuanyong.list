@@ -1,6 +1,6 @@
 # China Area Network
-DOMAIN-SUFFIX,appds.cn
-DOMAIN-SUFFIX,t.me
+REJECT-SUFFIX,appds.cn
+REJECT-SUFFIX,t.me
 DOMAIN-SUFFIX,wanwanji.com
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
