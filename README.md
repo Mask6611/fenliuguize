@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/Mask6611/fenliuguize/main/kehuzhuanyong.list
 电报直连：
 https://raw.githubusercontent.com/Mask6611/fenliuguize/main/zhiliantelegram.list
 
+资源解析器：
+https://raw.githubusercontent.com/Mask6611/fenliuguize/main/resource-parser.js
+
