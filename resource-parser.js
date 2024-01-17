@@ -3,6 +3,7 @@
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 反馈公众号: iOS 玩玩鸡🐔（ioswwj777）
 ⛳️ 本站网址：http://ios.wanwanji.com
+📝 圈X使用教程：https://www.wanwanji.com/2022/03/18/%e6%b5%8b%e8%af%95/
 📖 微信客服：jzpf444（朋友圈每天都有惊喜福利）
 🗣 🆃🄷🄰🄽🄺🅂 🆃🄾  @Jamie CHIEN, @M**F**, @c0lada, @Peng-YM, @vinewx, @love4taylor, @shadowdogy 
 
